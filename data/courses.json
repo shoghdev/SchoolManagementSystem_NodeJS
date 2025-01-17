@@ -1,0 +1,14 @@
+[
+  {
+    "id": "C001",
+    "name": "Algebra",
+    "teacherId": "T001",
+    "students": ["S001", "S002"]
+  },
+  {
+    "id": "C002",
+    "name": "Math",
+    "teacherId": "T001",
+    "students": ["S001"]
+  }
+]
